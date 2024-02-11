@@ -1,15 +1,14 @@
 import DarkModeToggle from './components/DarkModeToggle';
-import CardWithButton from './examples/components/Cards/CardWithButton';
-import CardWithFormInputs from './examples/components/Cards/CardWithFormInputs';
-import CardWithImageXAxis from './examples/components/Cards/CardWithImageXAxis';
-import CardWithImageYAxis from './examples/components/Cards/CardWithImageYAxis';
-import DefaultCard from './examples/components/Cards/DefaultCard';
+import DefaultDropdown from './examples/components/Dropdowns/DefaultDropdown';
+
+
+
 
 function App() {
 	return (
 		<main className="flex justify-center items-center min-h-screen  dark:bg-neutral-950">
 			<section className="flex flex-wrap gap-2">
-				<CardWithFormInputs />
+				
 			</section>
 			<DarkModeToggle />
 		</main>
@@ -28,3 +27,22 @@ import OutlineButton from './examples/components/Buttons/OutlineButton';
 import PillButton from './examples/components/Buttons/PillButton';
 import SocialButton from './examples/components/Buttons/SocialButton';
 */
+
+
+// ###### Cards imports ######
+/*
+import CardWithButton from './examples/components/Cards/CardWithButton';
+import CardWithFormInputs from './examples/components/Cards/CardWithFormInputs';
+import CardWithImageXAxis from './examples/components/Cards/CardWithImageXAxis';
+import CardWithImageYAxis from './examples/components/Cards/CardWithImageYAxis';
+import DefaultCard from './examples/components/Cards/DefaultCard';
+import EcommerceCard from './examples/components/Cards/EcommerceCard';
+import PrincingCard from './examples/components/Cards/PrincingCard';
+*/
+
+// ###### Skeletons imports ######
+/*
+import DefaultSkeleton from './examples/components/Skeletons/DefaultSkeleton';
+import SkeletonWithImage from './examples/components/Skeletons/SkeletonWithImage';
+*/
+

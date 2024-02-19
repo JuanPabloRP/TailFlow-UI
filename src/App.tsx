@@ -1,9 +1,6 @@
 import DarkModeToggle from './components/DarkModeToggle';
 import DefaultDropdown from './examples/components/Dropdowns/DefaultDropdown';
 
-
-
-
 function App() {
 	return (
 		<main className="flex justify-center items-center min-h-screen  dark:bg-neutral-950">

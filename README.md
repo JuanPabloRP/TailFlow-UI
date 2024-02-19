@@ -1,4 +1,4 @@
-# TailFlow-UI a new to create components using TailwindCSS
+# TailFlow-UI: A fresh approach to crafting components with TailwindCSS
 > Don't worry about the semantics, we already have them. ✔
 
  ## Things to do
